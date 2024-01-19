@@ -1,0 +1,31 @@
+					Assignment Day 3
+
+1. What is Git?
+Ans:-Git is a version control system that is used for tracking code changes, tracking who made changes like the history of the files, and also for coding collaboration.
+
+2. What do you understand by the term 'Version Control System'?
+Ans:- Version control systems are software tools that help to manage the code individually or in a team over time.
+
+3.	What is GitHub?
+Ans:-It is a platform for version control and collaboration. There are many features provided by GitHub that help to easily manage our code and collaborate with other people. 
+
+4. Mention some popular Git hosting services.
+Ans:-Bitbucket, GitHub, GitLab, Microsoft Azure DevOps, etc.
+
+5. Different types of version control systems.
+Ans:- There are mainly two types of version control systems:
+a. Centralized version control system and
+b. Distributed version control system
+
+6. What benefits come with using GIT?
+Ans:- a. Git is based on DVCS(distributed version control system).
+b. It has branching capabilities.
+c. Simplicity
+d. Integrity
+e. Speed
+
+7. What is a Git repository?
+Ans:- It is like a storage location where we manage and track our files. And also perform some action upon it.
+
+8. How can you initialize a repository in Git?
+Ans:- For initializing a new repository we use the command in the git bash that is: git init.
